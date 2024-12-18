@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">My name is Leonardo and I'm a Computer Science student at UFFS , from Santa Catarina, Brasil.</p>
+<p align="left">
+  My name is Leonardo and I'm a Computer Science student at UFFS, from 
+  <img src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/raw/master/dist/circle/png-200/25-santa-catarina-circle.png" height="16" alt="Santa Catarina flag" />
+  Santa Catarina, Brazil.
+</p>
+
 
 ###
 
@@ -10,7 +15,13 @@
 
 ###
 
-<p align="left">✨ Encrypting my thoughts since I discovered cryptography 🕵️‍♂️.<br>📚 Currently trying to tame backend bugs 🐛, wrestle with algorithms 🤼‍♂️, and make peace with databases 🗄️.<br>🎯 Goals: Write code that works on the first try (maybe someday) and solve the mysteries of the universe—starting with P = NP?.<br>🎲 And... I spend my free time playing chess ♟️ and solving math problems that no one asked me to.</p>
+<ul align="left">
+  <li>✨ Encrypting my thoughts since I discovered cryptography 🕵️‍♂️.</li>
+  <li>📚 Currently trying to tame backend bugs 🐛, wrestle with algorithms 🤼‍♂️, and make peace with databases 🗄️.</li>
+  <li>🎯 Goals: Write code that works on the first try (maybe someday) and solve the mysteries of the universe—starting with <code>P = NP?</code>.</li>
+  <li>🎲 And... I spend my free time playing chess ♟️ and solving math problems that no one asked me to.</li>
+</ul>
+
 
 ###
 
