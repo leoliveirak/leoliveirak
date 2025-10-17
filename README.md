@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  My name is Leonardo and I'm a Computer Science student at UFFS, from 
+  My name is Leonardo and I'm a Computer Science student at UFSC, from 
   <img src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/raw/master/dist/circle/png-200/25-santa-catarina-circle.png" height="16" alt="Santa Catarina flag" />
   Santa Catarina, Brazil.
 </p>
